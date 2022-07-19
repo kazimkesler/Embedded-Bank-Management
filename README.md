@@ -1,6 +1,8 @@
 # Embedded-Bank-Management
 An error proof bank management system software for industrial usage on embedded systems.
 
-Auto Increment ID
+Auto increment ID
 
-No Limits of Data
+No limits of data
+
+Can export as TXT file
