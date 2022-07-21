@@ -5,4 +5,4 @@ Auto increment ID
 
 No limits of data
 
-Can export as TXT file
+Can be export as TXT file
